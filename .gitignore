@@ -1,0 +1,16 @@
+# compiled binaries
+a.out
+h1-counter
+program2/peer
+program3/peer
+program4/peer
+program4/registry
+program4/p4_peer
+*.dSYM/
+
+# instructor-provided reference binaries (not mine to publish)
+program3/testMyPeer/
+program3/testPeer/
+program3/testRegistry/
+
+.DS_Store
